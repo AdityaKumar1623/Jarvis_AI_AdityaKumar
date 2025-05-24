@@ -145,6 +145,4 @@ This project is licensed under the MIT License – see the [LICENSE](LICENSE) fi
 - **[pyttsx3](https://github.com/nateshmbhat/pyttsx3)** – For natural text-to-speech functionality.
 - Thanks to the open-source community for their invaluable contributions and support!
 
----
 
-Feel free to further customize this README to match your unique style and project specifics. Happy coding! 🎉
